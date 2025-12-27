@@ -20,16 +20,24 @@ Total Customers	7,043
 Churned Customers	1,869
 Churn Rate	26.5%
 Revenue Lost due to Churn	~$2.9M
+
+
+
+
 🔍 Key Insights
 Month-to-month contracts show the highest churn rate (~43%).
 Electronic check users churn significantly more than other payment methods.
 New customers (0–12 months tenure) are the most vulnerable to churn (~47%).
 Customers with higher monthly charges are more likely to churn.
+
+
 💡 Business Recommendations
 Encourage long-term contracts through discounts and loyalty benefits.
 Promote automatic payment methods to reduce payment friction.
 Strengthen early customer onboarding within the first 12 months.
 Introduce targeted pricing strategies for high-risk customers.
+
+
 🧩 Dashboard Structure
 Page 1 — Executive Overview
 High-level KPIs (Customers, Churn Rate, Revenue Loss)
@@ -43,6 +51,9 @@ Page 3 — Insights & Recommendations
 Business-focused insights
 Actionable recommendations for churn reduction
 Decision-support summary
+
+
+
 🛠️ Tools & Technologies
 Power BI — Data visualization & dashboarding
 PostgreSQL — Data storage and querying
